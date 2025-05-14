@@ -1,6 +1,10 @@
 # Redirect Analyzer Tool
 
-A simple and powerful GUI-based Redirect Analyzer that tracks HTTP redirects, resolves IP addresses, and retrieves WHOIS data for each domain encountered during the request chain.
+
+
+A simple and powerful GUI![tashi](https://github.com/user-attachments/assets/5ae9a0bc-b99d-41c9-9fe2-d54daf7b1b84)
+
+-based Redirect Analyzer that tracks HTTP redirects, resolves IP addresses, and retrieves WHOIS data for each domain encountered during the request chain.
 
 ## 🔍 Features
 
