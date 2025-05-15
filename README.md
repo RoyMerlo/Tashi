@@ -16,7 +16,7 @@ A simple and powerful GUI![tashi](https://github.com/user-attachments/assets/5ae
 - **Copy & Paste support**
 - **Clean and customizable UI with color-coded redirect steps**
 
-## 🖥️ Screenshot (Optional)![tashi](https://github.com/user-attachments/assets/774a9107-df0f-41d1-9bb3-a4f4534a18bb)
+ (https://github.com/user-attachments/assets/774a9107-df0f-41d1-9bb3-a4f4534a18bb)
 
 
 ## 📦 Requirements
