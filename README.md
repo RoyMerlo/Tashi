@@ -1,8 +1,9 @@
 # Redirect Analyzer Tool
 
+<img width="1024" height="1024" alt="Tashi123" src="https://github.com/user-attachments/assets/1db7cbf0-307d-4328-9291-81040f854861" />
 
 
-A simple and powerful GUI![tashi](https://github.com/user-attachments/assets/5ae9a0bc-b99d-41c9-9fe2-d54daf7b1b84)
+A simple and powerful GUI! 
 
 -based Redirect Analyzer that tracks HTTP redirects, resolves IP addresses, and retrieves WHOIS data for each domain encountered during the request chain.
 
