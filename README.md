@@ -22,6 +22,31 @@ A simple and powerful GUI!
 
 ## 📦 Requirements
 
+    Complete redirect chain analysis
+    Detailed WHOIS information
+    IP address resolution
+    Export results to CSV/TXT
+
+Installation on Debian/Ubuntu:
+
+sudo dpkg -i tashi_1.0-1_all.deb
+
+sudo apt install -f  # to install dependencies
+Required Dependencies: 
+
+    python3-tk
+    python3-requests
+    python3-whois
+    python3-pyfiglet
+     
+Usage:
+tashi.py
+
+
+
+
+
+
 
 
  
